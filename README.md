@@ -69,3 +69,8 @@ The goal of the public health campaign is to reach those demographics who are le
 ### Limitations
 A limitation of the H1N1 data from United States National Center for Health Statistics is that it is surveyed data.  The data depends on the responses of a participant and that's if they answer at all.  We assume here that the likelihood of a participant responding to the survey is uniformly distributed.
 
+## Next Steps
+
+As we discover more about the H2N2 virus, and are able to take our steps to make vaccinations convenient, lower the cost and educate the public on the good of the vaccination, we will continually add data regarding the H2N2.  We can see if it fits the same model as H1N1 and run new models as we gather data.
+
+
