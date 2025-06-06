@@ -6,7 +6,8 @@ Analysis by Jordan Scriven
 As doctors and public health specialists warn of the forthcoming widespread of H2N2 flu virus, there is a rush from all pharmaceutical companies to develop the first H2N2 vaccine.  Once the vaccine is produced, the Department of Health and Human Services will run a public health campaign to encourage all eligible people recieve the vaccination.  The task is to run a predictive analysis on available data to inform that public health campaign - tailoring the campaign to specific demographics.
 
 ## Data Understanding
-Data provided by the United States National Center for Health Statistics shows the social, economic, and demographic background of a surveyed population along with their opinions on effectiveness of vaccines and the vaccination status.  About 26,700 records were optained in the survey.
+
+[Data](https://www.drivendata.org/competitions/66/flu-shot-learning/) provided by the United States National Center for Health Statistics shows the social, economic, and demographic background of a surveyed population along with their opinions on effectiveness of vaccines and the vaccination status.  About 26,700 records were optained in the survey.
 
 ### Data Preparation
 While the data includes information on both the H1N1 vaccine and the Seasonal Flu vaccine, we will concentrate on the H1N1 vaccination. The H1N1 flu virus was first detected in spring 2009 and the vaccination was available in October 2009. H1N1 came on quick, was unheard of and was responsible for many deaths. As we expect H2N2 to be similar, we will predict that people react the same.
