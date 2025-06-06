@@ -58,4 +58,11 @@ A limitation of the H1N1 data from United States National Center for Health Stat
 
 As we discover more about the H2N2 virus, and are able to take our steps to make vaccinations convenient, lower the cost and educate the public on the good of the vaccination, we will continually add data regarding the H2N2.  We can see if it fits the same model as H1N1 and run new models as we gather data.
 
+## Repository Navigation
+
+* [.gitignore](.gitignore)
+ * [notebook.ipynb](notebook.ipynb)
+ * [presentation.pdf](presentation.pdf)
+ * [README.md](.README.md)
+
 
