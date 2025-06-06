@@ -63,6 +63,6 @@ As we discover more about the H2N2 virus, and are able to take our steps to make
 * [.gitignore](.gitignore)
  * [notebook.ipynb](Notebook.ipynb)
  * [presentation.pdf](Presentation.pdf)
- * [README.md](.README.md)
+ * [README.md](README.md)
 
 
