@@ -61,7 +61,7 @@ As we discover more about the H2N2 virus, and are able to take our steps to make
 ## Repository Navigation
 
 * [.gitignore](.gitignore)
- * [notebook.ipynb](notebook.ipynb)
+ * [notebook.ipynb](Notebook.ipynb)
  * [presentation.pdf](presentation.pdf)
  * [README.md](.README.md)
 
