@@ -7,7 +7,7 @@ As doctors and public health specialists warn of the forthcoming widespread of H
 
 ## Data Understanding
 
-[Data](https://www.drivendata.org/competitions/66/flu-shot-learning/) provided by the United States National Center for Health Statistics shows the social, economic, and demographic background of a surveyed population along with their opinions on effectiveness of vaccines and the vaccination status.  About 26,700 records were optained in the survey.
+[Data](https://www.drivendata.org/competitions/66/flu-shot-learning/](https://www.kaggle.com/datasets/arashnic/flu-data) provided by the United States National Center for Health Statistics shows the social, economic, and demographic background of a surveyed population along with their opinions on effectiveness of vaccines and the vaccination status.  About 26,700 records were optained in the survey.
 
 ### Data Preparation
 While the data includes information on both the H1N1 vaccine and the Seasonal Flu vaccine, we will concentrate on the H1N1 vaccination. The H1N1 flu virus was first detected in spring 2009 and the vaccination was available in October 2009. H1N1 came on quick, was unheard of and was responsible for many deaths. As we expect H2N2 to be similar, we will predict that people react the same.
