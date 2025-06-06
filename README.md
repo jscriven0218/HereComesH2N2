@@ -40,21 +40,6 @@ The sample data has a large class imbalance with a much larger target of unvacci
 ![Oversample](https://github.com/user-attachments/assets/ad3d2196-d649-4199-b9ae-95a0c97d43c7)
 
 ## Evaluation
-                                  coef    std err          z      P>|z|      [0.025      0.975]
------------------------------------------------------------------------------------------------
-const                          -1.4257      0.090    -15.801      0.000      -1.603      -1.249
-age_group_35 - 44 Years        -0.0166      0.063     -0.263      0.792      -0.140       0.107
-age_group_45 - 54 Years         0.0113      0.058      0.195      0.845      -0.103       0.125
-age_group_55 - 64 Years         0.2797      0.055      5.046      0.000       0.171       0.388
-age_group_65+ Years             0.3050      0.054      5.621      0.000       0.199       0.411
-education_LowEducation         -0.3231      0.046     -7.089      0.000      -0.412      -0.234
-education_MediumEducation      -0.1146      0.043     -2.664      0.008      -0.199      -0.030
-income_poverty_LowIncome       -0.2364      0.072     -3.271      0.001      -0.378      -0.095
-income_poverty_MediumIncome    -0.2939      0.042     -7.081      0.000      -0.375      -0.213
-sex_Male                       -0.0919      0.036     -2.567      0.010      -0.162      -0.022
-race_Hispanic                   0.4104      0.100      4.097      0.000       0.214       0.607
-race_Other or Multiple          0.3975      0.100      3.970      0.000       0.201       0.594
-race_White                      0.3612      0.075      4.825      0.000       0.215       0.508
 
 The logistic regression results indicate that several factors are significantly associated with H1N1 vaccination status. Specifically, individuals in older age groups (ages 55-64 and age 65+) are more likely to be vaccinated.  Those falling in the categories of low eduction and low or medium income are less likely to be vaccinated.  Men are predicted to recieve a vaccination less often than women and hispanic or other races are more likely to be vaccinated.
 
